@@ -1,0 +1,23 @@
+body {
+  background-color: red;
+}
+
+.big-title {
+  font-size: 48px;
+  color: yellow;
+}
+
+.button {
+  background-color: blue;
+  border-radius: 8px;
+  color: #fff;
+}
+
+.button:hover {
+  background-color: lightblue;
+}
+.primary {
+}
+
+.big {
+}
